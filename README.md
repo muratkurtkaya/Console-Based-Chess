@@ -8,4 +8,4 @@ In order to play the game, compile the chess.c ($gcc chess.c).
   
 https://github.com/muratkurtkaya/Console-Based-Chess/tree/master/images
   
-[My image](muratkurtkaya/Console-Based-Chess/blob/master/images/castling example.png)
+[My image](https://github.com/muratkurtkaya/Console-Based-Chess/blob/master/images/castling%20example.png)
