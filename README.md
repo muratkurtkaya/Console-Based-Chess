@@ -16,8 +16,11 @@ The game state is saved when returning to the menu("m") or typing "s" while play
   
   
   
-### Castling
+### Special Moves  
+#### Castling  
+![castling](https://user-images.githubusercontent.com/46817744/108593974-10d3e200-7388-11eb-924d-7a9cf28fe0fd.gif)
+
   
-  
-### En Passant
-  
+#### En Passant  
+![chess_passant](https://user-images.githubusercontent.com/46817744/108593971-07e31080-7388-11eb-8c8f-0d44628ed681.gif)  
+
