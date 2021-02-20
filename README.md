@@ -4,7 +4,8 @@ Save and load options are avaliable.
 Special moves such as castling and en passant are avaliable.
 After each move current player and her/his remeaning time is shown.    
 In order to play the game, compile the chess.c ($gcc chess.c).
-  
+
+Type "s" in order to save the game, "m" in order to got to the menu. 
     
 ## Main Menu and Start Screen
 ![chess_1](https://user-images.githubusercontent.com/46817744/108593340-18918780-7384-11eb-9fa4-b49e7c78c7c8.gif)
